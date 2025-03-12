@@ -11,7 +11,7 @@
 ## 尝试模型
 
 1. 使用的模型为IQSeqCompressor，自定义的长序列预测模型
-2. 长时间序列SOTA，[TimeXer]([[2402.19072\] TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2402.19072))
+2. 长时间序列预测SOTA，[TimeXer]([[2402.19072\] TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://arxiv.org/abs/2402.19072))
 3. 自定义模型较SOTA低一个点
 
 
